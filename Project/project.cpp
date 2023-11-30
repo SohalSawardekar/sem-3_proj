@@ -1,20 +1,11 @@
 /*
 
-                                OOPS PROJECT
-
-Question: 
-Write a C++ program to create a shopping mall system. Program should facilitate the end user to create a separte file for each store in mall with store name as the file name. store record details should be :sname,regno,and quantity of items .Provide a menu driven o/p with following options for the program:                                                                                                                                                                      option 1-> To enter store details and display separately each file as o/p                                                                                                                option 2-> To edit quantity of items and also display the updated content                                                       option 3-> To append the floor-no to a store file & display appended content on screen												
+Write a C++ program to create a shopping mall system. Program should facilitate the end user to create a separte file for each store in mall with store name as the file name. 
+store record details should be :sname,regno,and quantity of items .Provide a menu driven o/p with following options for the program:                                                                                                                                                                      
+option 1-> To enter store details and display separately each file as o/p                                                                                                                
+option 2-> To edit quantity of items and also display the updated content                                                       
+option 3-> To append the floor-no to a store file & display appended content on screen
 												
-Group: G10
-
-Members: 
-- Sohal Shantesh Sawardekar     [22B-CO-058]
-- Soham Sanjog Bhatkuly         [22B-CO-059]																		
-- Sphoorti Nippanikar           [22B-CO-060]																		
-- Srideep Sunil Kavlekar        [22B-CO-061]																		
-- Sushant Govind Shetti         [22B-CO-062]																		
-- T.S. Vivek                    [22B-CO-063]	
-
 */											
 
 //Code: 
